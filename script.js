@@ -1,0 +1,3 @@
+function surpriseMessage() {
+    alert("There are no words that can truly capture how much you mean to me. Being with you feels like finding the part of my soul I didn’t even know I was missing. You’re not just beautiful on the outside, but you radiate such kindness, love, and strength that it leaves me in awe every single day.You make the world brighter just by being in it, and with you, even the simplest moments feel extraordinary. When life gets tough, your love is my anchor, your laughter my joy, and your presence my greatest comfort. I honestly can't imagine life without you, because you are my life—my everything. I love you more than I can ever say, and I promise to always cherish and adore you. You hold my heart, always and forever. 💖");
+}
